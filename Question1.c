@@ -17,4 +17,6 @@ int main(int argc, char *argv[], char *envp[]) {
 
 	//subtract product by x/2
 	printf("%d\n", product - x);
+
+	return 0;
 }
